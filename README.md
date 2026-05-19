@@ -8,7 +8,7 @@ This project helps analyze Uber ride operations, revenue, customer ratings, canc
 Booking Status Distribution
 Ride Analytics Visualization
 Interactive Charts using Plotly
-📂 Dataset Explorer
+📂 Dataset Explorer  
 View dataset overview
 Display selected columns
 Search records dynamically
